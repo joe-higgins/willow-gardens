@@ -1,0 +1,134 @@
+*				{
+				margin: 0px;
+				padding: 0px;
+				list-style-type: none;
+				}
+*	html		{
+				margin: 0px;
+				padding: 0px;
+				list-style-type: none;
+				}				
+				
+body			{
+				background: #676767 url(../images/bkgnd.jpg) repeat-x;
+				font-family: "Lithos Pro", "Trebuchet MS", Verdana, Arial, sans-serif;
+				color: #f0e47c;
+				}
+
+				
+a				{
+				text-decoration: none;
+				color: #663300;		
+				}	
+* html a		{
+				text-decoration: none;
+				color: #663300;	
+				}				
+a:hover		{
+				color: #9c3d62;
+				font-size: large;
+				
+				}
+* html a:hover		
+				{
+				color: #9c3d62;
+				font-size: large;
+				}	
+				
+.header		{
+				color:#663300;
+				padding: 40px 0;
+				}
+				
+p.first_line:first-line	
+				{
+				color: #663300;
+				font-size: large;
+				padding: 10px 0;
+				}
+* html p.first_line:first-line	
+				{
+				color: #663300;
+				font-size: large;
+				padding: 10px 0;
+				}
+.content_p		{
+				padding: 10px 0;
+				}
+.clear			{
+				clear: both;
+				}				
+#page_wrap		{		
+				}
+#top_wrap		{
+				
+				}
+#logo		{
+			position: absolute;
+			top: 130px;
+			}
+
+#phone		{
+				color: #663300;
+				position: absolute;
+				top: 200px;
+				left: 55%;
+				float: left;
+				}
+#right_top		{
+				background: url(../images/right_top.gif) no-repeat;
+				height: 399px;
+				width: 623px;
+				float: right;
+				}
+
+
+#bot_wrap		{
+				position: absolute;
+				width: 100%;
+				top: 270px;
+				padding: 0 170px 0 0px;
+				}
+#nav			{
+				background: url(../images/menu_flow.gif) no-repeat;
+				position: absolute;
+				left: 30px;
+				width: 149px;
+				height: 265px;
+				float: left;
+				}
+.menu		{
+				text-align: center;
+				color: #663300;
+				}
+#menu1			{
+				position: absolute;
+				top: 30px;
+				left: 35px;
+				}
+#menu2			{
+				position: absolute;
+				top: 80px;
+				left: 25px;
+				}
+#menu3			{
+				position: absolute;
+				top: 135px;
+				left: 20px;
+				}
+#menu4			{
+				position: absolute;
+				top: 190px;
+				left: 18px;
+				}	
+#menu5			{
+				position: absolute;
+				top: 245px;
+				left: 15px;
+				}								
+#content	{
+				width: 65%;
+				margin-left: 220px;
+				padding: 0 80px 20px 0;
+				
+				}

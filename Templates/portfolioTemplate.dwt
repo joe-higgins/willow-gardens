@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Willow Gardens - Portfolio</title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" rev="stylesheet" href="../css/style_inside.css" type="text/css" media="all" />
+	
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+<body>
+<div id="leaf"></div>
+<div class="clear"></div>
+<div id="page_wrap">
+ 
+<div id="bot_wrap">
+<div id="nav">
+<div id="menu1" class="menu">
+<a href="../index.html" id="home" name="home" target="_top">HOME</a>
+</div>
+<div id="menu2" class="menu">
+<a href="../services.html" id="services" name="services" target="_top">SERVICES</a>
+</div>
+<div id="menu3" class="menu">
+<a href="../portfolio.html" id="portfolio" name="portfolio" target="_top">PORTFOLIO</a>
+</div>
+<div id="menu4" class="menu">
+<a href="../contact.html" id="contact" name="contact" target="_top">CONTACT US</a>
+</div>
+<div id="menu5" class="menu">
+</div>
+</div><!-- end nav -->
+
+<div id="content"><!-- TemplateBeginEditable name="editable Text" -->
+  <h2 class="header">PORTFOLIO</h2>
+  <p>Below are some samples of recent design and installation projects</p>
+  <p>If you would like to see our work "live" please contact us for an appointment. </p>
+  <!-- TemplateEndEditable -->
+<div id="thumb_table">
+			<ul>
+		    <!-- TemplateBeginEditable name="thumbnails" -->
+			    <li class="thumbs_top"><img src="../images/samples/010_13A.jpg" class="thumbs" alt="" />
+                  <div><img src="../images/samples/010_13A.jpg" class="big_img" alt="" /></div>
+		      </li>
+			    <li class="thumbs_top"><img src="../images/samples/005_18A.jpg" class="thumbs" alt="" />
+                  <div><img src="../images/samples/005_18A.jpg" class="big_img" alt="" /></div>
+		      </li>
+			    <li class="thumbs_top"><img src="../images/samples/006_17A.jpg" class="thumbs" alt="" />
+                  <div><img src="../images/samples/006_17A.jpg" class="big_img" alt="" /></div>
+		      </li>
+			    <li class="thumbs_top"><img src="../images/samples/009_14A.jpg" class="thumbs" alt="" />
+                  <div><img src="../images/samples/009_14A.jpg" class="big_img" alt="" /></div>
+		      </li>
+			    <li class="thumbs_left"><img src="../images/samples/017_006.jpg" class="thumbs" alt="" />
+                  <div><img src="../images/samples/017_006.jpg" class="big_img" alt="" /></div>
+		      </li>
+			    <li class="thumbs_left"><img src="../images/samples/015_008.jpg" class="thumbs" alt="" />
+                  <div><img src="../images/samples/015_008.jpg" class="big_img" alt="" /></div>
+		      </li>
+			    <li class="thumbs_left"><img src="../images/samples/016_007.jpg" class="thumbs" alt="" />
+                  <div><img src="../images/samples/016_007.jpg" class="big_img" alt="" /></div>
+		      </li>
+			    <li class="thumbs_left"><img src="../images/samples/002_21A.jpg" class="thumbs" alt="" />
+                  <div><img src="../images/samples/002_21A.jpg" class="big_img" alt="" /></div>
+		      </li>
+		      <!-- TemplateEndEditable -->
+	    </ul>
+			</div>
+
+	
+
+ 
+<p>&nbsp;</p>
+</div><!-- end content -->
+ 
+<div class="clear"></div>
+</div><!-- end bot_wrap -->
+
+
+
+</div><!-- end page_wrap -->
+</body>
+</html>
